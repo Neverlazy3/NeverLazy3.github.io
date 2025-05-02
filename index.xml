@@ -7,15 +7,7 @@
         <generator>Hugo -- gohugo.io</generator>
         <language>zh-cn</language>
         <copyright>Harmoon</copyright>
-        <lastBuildDate>Fri, 02 May 2025 19:29:10 +0800</lastBuildDate><atom:link href="https://neverlazy3.github.io/index.xml" rel="self" type="application/rss+xml" /><item>
-        <title>Second</title>
-        <link>https://neverlazy3.github.io/p/second/</link>
-        <pubDate>Fri, 02 May 2025 19:29:10 +0800</pubDate>
-        
-        <guid>https://neverlazy3.github.io/p/second/</guid>
-        <description></description>
-        </item>
-        <item>
+        <lastBuildDate>Thu, 01 May 2025 22:11:22 +0800</lastBuildDate><atom:link href="https://neverlazy3.github.io/index.xml" rel="self" type="application/rss+xml" /><item>
         <title>MyFirstBlog</title>
         <link>https://neverlazy3.github.io/p/myfirstblog/</link>
         <pubDate>Thu, 01 May 2025 22:11:22 +0800</pubDate>
@@ -110,6 +102,15 @@
 &lt;/div&gt;&lt;p&gt;相册语法来自 &lt;a class=&#34;link&#34; href=&#34;https://typlog.com/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
     &gt;Typlog&lt;/a&gt;&lt;/p&gt;
 </description>
+        </item>
+        <item>
+        <title>Chinese Test</title>
+        <link>https://neverlazy3.github.io/p/test-chinese/</link>
+        <pubDate>Wed, 09 Sep 2020 00:00:00 +0000</pubDate>
+        
+        <guid>https://neverlazy3.github.io/p/test-chinese/</guid>
+        <description>&lt;img src="https://neverlazy3.github.io/helena-hertz-wWZzXlDpMog-unsplash.jpg" alt="Featured image of post Chinese Test" /&gt;&lt;h2 id=&#34;正文测试&#34;&gt;正文测试
+&lt;/h2&gt;</description>
         </item>
         <item>
         <title>归档</title>
