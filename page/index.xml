@@ -8,19 +8,11 @@
         <language>zh-cn</language>
         <copyright>Harmoon</copyright>
         <lastBuildDate>Tue, 28 May 2019 00:00:00 +0000</lastBuildDate><atom:link href="https://neverlazy3.github.io/page/index.xml" rel="self" type="application/rss+xml" /><item>
-        <title>Archives</title>
+        <title>归档</title>
         <link>https://neverlazy3.github.io/archives/</link>
         <pubDate>Tue, 28 May 2019 00:00:00 +0000</pubDate>
         
         <guid>https://neverlazy3.github.io/archives/</guid>
-        <description></description>
-        </item>
-        <item>
-        <title>Search</title>
-        <link>https://neverlazy3.github.io/search/</link>
-        <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-        
-        <guid>https://neverlazy3.github.io/search/</guid>
         <description></description>
         </item>
         <item>
@@ -31,6 +23,14 @@
         <guid>https://neverlazy3.github.io/%E5%85%B3%E4%BA%8E/</guid>
         <description>&lt;p&gt;This is a test page for i18n support.&lt;/p&gt;
 </description>
+        </item>
+        <item>
+        <title>搜索</title>
+        <link>https://neverlazy3.github.io/search/</link>
+        <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+        
+        <guid>https://neverlazy3.github.io/search/</guid>
+        <description></description>
         </item>
         <item>
         <title>友情链接</title>
