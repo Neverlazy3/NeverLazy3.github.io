@@ -7,15 +7,33 @@
         <generator>Hugo -- gohugo.io</generator>
         <language>zh-cn</language>
         <copyright>Harmoon</copyright>
-        <lastBuildDate>Thu, 01 May 2025 22:11:22 +0800</lastBuildDate><atom:link href="https://neverlazy3.github.io/index.xml" rel="self" type="application/rss+xml" /><item>
-        <title>MyFirstBlog</title>
-        <link>https://neverlazy3.github.io/p/myfirstblog/</link>
-        <pubDate>Thu, 01 May 2025 22:11:22 +0800</pubDate>
+        <lastBuildDate>Sat, 03 May 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://neverlazy3.github.io/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>FirstBlog</title>
+        <link>https://neverlazy3.github.io/p/test-chinese/</link>
+        <pubDate>Sat, 03 May 2025 00:00:00 +0000</pubDate>
         
-        <guid>https://neverlazy3.github.io/p/myfirstblog/</guid>
+        <guid>https://neverlazy3.github.io/p/test-chinese/</guid>
         <description>&lt;p&gt;正文测试&lt;/p&gt;
 &lt;p&gt;hello world&lt;/p&gt;
 </description>
+        </item>
+        <item>
+        <title>考研择校经验</title>
+        <link>https://neverlazy3.github.io/p/experience-kaoyan/</link>
+        <pubDate>Sat, 03 May 2025 00:00:00 +0000</pubDate>
+        
+        <guid>https://neverlazy3.github.io/p/experience-kaoyan/</guid>
+        <description>&lt;img src="https://neverlazy3.github.io/none" alt="Featured image of post 考研择校经验" /&gt;&lt;h2 id=&#34;正文测试&#34;&gt;正文测试
+&lt;/h2&gt;</description>
+        </item>
+        <item>
+        <title>Second</title>
+        <link>https://neverlazy3.github.io/p/second/</link>
+        <pubDate>Thu, 01 May 2025 22:11:22 +0800</pubDate>
+        
+        <guid>https://neverlazy3.github.io/p/second/</guid>
+        <description>&lt;h2 id=&#34;正文测试&#34;&gt;正文测试
+&lt;/h2&gt;</description>
         </item>
         <item>
         <title>Chinese Test</title>
